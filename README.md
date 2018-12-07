@@ -7,3 +7,8 @@ $ ./minikube.sh
 ```
 
 [This](https://kubernetes.io/docs/concepts/policy/pod-security-policy/) link provides information about Pod Security Policies.
+
+## Requirements
+  - **Minikube** 
+  - **Kubernetes v1.10.0** (or newer)
+  - **kubectl**
